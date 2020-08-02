@@ -1,3 +1,3 @@
 # nuxtboilerplate
 
-This is where im gonna start nuxt project
+This is where im gonna start 
